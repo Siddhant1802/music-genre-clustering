@@ -1,0 +1,17 @@
+# Core Libraries
+numpy>=1.23.0         # Numerical computations
+pandas>=1.5.0         # Data manipulation and analysis
+
+# Machine Learning and Clustering
+scikit-learn>=1.2.0   # Clustering algorithms and preprocessing
+
+# Visualization
+matplotlib>=3.7.0     # Plotting library
+seaborn>=0.12.0       # Statistical data visualization
+
+# Audio Processing (if applicable)
+librosa>=0.10.0       # Audio feature extraction
+scipy>=1.10.0         # Scientific computations
+
+# Jupyter Environment
+jupyter>=1.0.0        # Running Jupyter notebooks
